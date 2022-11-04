@@ -1,11 +1,11 @@
 # 💻 E-commerce application
 
-#### Run Application
+### Run Application
 ```bash
 $ npm start
 ```
 
-#### About
+### About
 
 E-commerce application, created using React.
 
