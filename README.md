@@ -19,7 +19,7 @@ This e-commerce shows products from different categories. Each product belongs t
   <tr>
 
    <tr>
-    <td><img src ="assets/Layout1.png"/></td>
-    <td><img src ="assets/Layout2.png"/></td>
+    <td><img src ="/src/assets/Layout1.png"/></td>
+    <td><img src ="/src/assets/Layout2.png"/></td>
   <tr>
 </table>
